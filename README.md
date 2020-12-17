@@ -4,8 +4,7 @@ Summary :
 
 Original Repo : https://github.com/localstack/localstack
 
-Machine Configuration [minimum]
-=======================================================
+## Machine Configuration [minimum]
  - Hypervisor: VirtualBox
  - Processor: 1 CPU
  - Ram: 1 GB
